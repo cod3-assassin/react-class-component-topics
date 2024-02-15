@@ -1,0 +1,16 @@
+.custom-table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center; /* Center align the content */
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+.custom-table th h3,
+.custom-table td h3 {
+  margin: 0; /* Remove default margin of h3 elements */
+}
